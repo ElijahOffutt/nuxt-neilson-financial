@@ -1,0 +1,28 @@
+[
+    {
+        "title": "The Board",
+        "list": [
+            {
+                "name": "mark weavis",
+                "titles": ["Non-Executive Chairman","Neilson Financial Services"],
+                "avatar": "",
+                "paragraph": "",
+                "image": ""
+            },
+            {
+                "name": "gavin donnelly",
+                "titles": ["Cheif Executive Officer"],
+                "avatar": "",
+                "paragraph": "",
+                "image": ""
+            },
+            {
+                "name": "",
+                "titles": [""],
+                "avatar": "",
+                "paragraph": "",
+                "image": ""
+            }
+        ]
+    }
+]

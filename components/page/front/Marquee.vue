@@ -1,5 +1,5 @@
 <template>
-    <v-carousel>
+    <v-carousel >
         <v-carousel-item v-for="(item, i) in items" :key="i">
             <div class="background" :style="`background-image: url('${item.image}')`">
                 <div class="content">
